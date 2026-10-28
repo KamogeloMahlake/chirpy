@@ -1,3 +1,3 @@
 #!/bin/bash
 
-go build -o out && ./out
+go run .
